@@ -2,7 +2,6 @@
 
  A Flutter application to showcase Homepage View UI
  
- [Fitso app ui](https://github.com/iamluvsrk/fitso_app_ui/blob/main/screenshots/fitso-app_ui.png)
  
  ![image info](./screenshots/fitso-app_ui.png)
  
