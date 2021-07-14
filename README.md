@@ -2,7 +2,7 @@
 
  A Flutter application to showcase Homepage View UI
  
- ** Packages we are using **
+ **Packages we are using**
 
 ## Getting Started
 
