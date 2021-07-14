@@ -1,16 +1,13 @@
-# fitso_app_ui
+# fitso_app_ui | Homepage UI
 
-A new Flutter project.
+ A Flutter application to showcase Homepage View UI
+ 
+ [Fitso app ui]()
+ 
+ **Packages we are using**
 
-## Getting Started
+[google_fonts :](https://pub.dev/packages/google_fonts) The google_fonts package for Flutter allows you to easily use any of the 977 fonts (and their variants) from fonts.google.com in your Flutter app.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[carousel_slider :](https://pub.dev/packages/carousel_slider) A carousel slider widget.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
